@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm usually just on GitLab, nothing here is going to be up to date. 
+
 I'm generally a C/C++ developer for embedded systems, but I do have a soft spot for big, super parallelized stuff. Bonus points if it's super parallelizable stuff that can run on super lightweight hardware/embedded systems. 
 
 I'm currently just on github for my dumb twitch bot, ChatRat. But I might end up putting up some simple arduino stuff that I mess around with on my free time, as well as other things. Maybe even some hardware work, I've been meaning to get some effort back into kicad because I do love making little hardware projects. 
