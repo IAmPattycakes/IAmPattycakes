@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm usually just on [GitLab](https://gitlab.com/iampattycakes), nothing here is going to be up to date. 
+I'm usually just on [GitLab](https://gitlab.com/iampattycakes), nothing here is going to be up to date. But check out my cool networking setup for self-hosting your stuff easy at [ringbinder.io](https://ringbinder.io)
 
-I'm generally a C/C++ developer for embedded systems, but I do have a soft spot for big, super parallelized stuff. Bonus points if it's super parallelizable stuff that can run on super lightweight hardware/embedded systems. 
-
+I'm generally a Go developer but have done C/C++ for embedded systems professionally in the past. I do have a soft spot for big, super parallelized stuff, Linux, containers, and networking. Big surprise, I like Kubernetes. Bonus points if the project is using Kubernetes is a place it REALLY should not be. That's fun. 
+<!--
 I'm currently just on github for my dumb twitch bot, ChatRat. But I might end up putting up some simple arduino stuff that I mess around with on my free time, as well as other things. Maybe even some hardware work, I've been meaning to get some effort back into kicad because I do love making little hardware projects. 
-
+-->
 If you wanna reach out about anything in any of the repos I maintain, or want me to look at something you think would be cool, shoot me an email. I sometimes respond to those. 
 
 <!--
