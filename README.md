@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm usually just on GitLab, nothing here is going to be up to date. 
+I'm usually just on [GitLab](https://gitlab.com/iampattycakes), nothing here is going to be up to date. 
 
 I'm generally a C/C++ developer for embedded systems, but I do have a soft spot for big, super parallelized stuff. Bonus points if it's super parallelizable stuff that can run on super lightweight hardware/embedded systems. 
 
